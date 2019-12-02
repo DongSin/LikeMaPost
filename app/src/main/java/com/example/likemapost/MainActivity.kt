@@ -72,7 +72,7 @@ class MainActivity : AppCompatActivity() {
             commit()
         }
         super.onPause()
-        
+
     }
 
     override fun onStop() {
